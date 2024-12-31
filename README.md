@@ -39,7 +39,7 @@ A simple yet functional clone of the iPhone Calculator app built using modern we
 
 ## Screenshots
 
-![iPhone Calculator Clone](link-to-screenshot)  
+![iPhone Calculator Clone](screenshot/screenshot1.png)  
 *Add screenshots to showcase the interface.*
 
 ## Future Improvements
