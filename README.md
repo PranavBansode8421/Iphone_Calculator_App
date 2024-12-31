@@ -1,6 +1,6 @@
 # iPhone Calculator App
 
-A simple yet functional clone of the iPhone Calculator app built using modern web technologies. This project demonstrates clean design and basic calculator functionality, perfect for learning or enhancing your front-end development skills.
+An engaging and practical replica of the iPhone Calculator app crafted using modern web development technologies. This project showcases an intuitive design and fundamental calculator capabilities, making it ideal for both learning and enhancing front-end development skills.
 
 ## Features
 
@@ -37,10 +37,21 @@ A simple yet functional clone of the iPhone Calculator app built using modern we
 2. Use the on-screen buttons to perform calculations.
 3. The result will be displayed on the screen in real-time.
 
+Alternatively, you can use the deployed version of this app:
+
+[Deployed App on Netlify](https://iphone-calculator-by-pranav-bansode.netlify.app/)
+
 ## Screenshots
 
 ![iPhone Calculator Clone](screenshot/screenshot1.png)  
+*Add screenshots to showcase the interface.*
 
+## Future Improvements
+
+- Add advanced calculator functions (e.g., scientific calculator mode).
+- Implement keyboard input support.
+- Improve animations and transitions.
+- Add unit tests for calculator logic.
 
 ## Contributing
 
@@ -76,6 +87,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use it f
 If you have any questions or feedback, please feel free to contact me via:
 
 - GitHub: [PranavBansode8421](https://github.com/PranavBansode8421)
+- Email: pranavbansode8421@gmail.com
 
 ---
 
