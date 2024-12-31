@@ -40,14 +40,7 @@ A simple yet functional clone of the iPhone Calculator app built using modern we
 ## Screenshots
 
 ![iPhone Calculator Clone](screenshot/screenshot1.png)  
-*Add screenshots to showcase the interface.*
 
-## Future Improvements
-
-- Add advanced calculator functions (e.g., scientific calculator mode).
-- Implement keyboard input support.
-- Improve animations and transitions.
-- Add unit tests for calculator logic.
 
 ## Contributing
 
